@@ -13,7 +13,7 @@ The goal of this project is to recognize characters from images by first detecti
 4. **Postprocessing:** Sort characters by position and reconstruct the final string.
 
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - **Python**
 - **OpenCV** – Image processing (thresholding, contours, etc.)
