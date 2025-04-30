@@ -1,4 +1,4 @@
-# 🔤Optical Character Recognition (OCR) using CNN and Computer Vision
+# Optical Character Recognition (OCR) using CNN and Computer Vision
 
 This project implements an end-to-end OCR system capable of detecting and recognizing characters from raw images using image processing and deep learning techniques. It combines classical computer vision for segmentation and a Convolutional Neural Network (CNN) for character classification.
 
